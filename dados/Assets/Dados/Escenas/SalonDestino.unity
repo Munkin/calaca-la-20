@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -671,6 +671,10 @@ Prefab:
     - target: {fileID: 19800000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
       propertyPath: randomSeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
       objectReference: {fileID: 0}
     - target: {fileID: 19800000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
       propertyPath: InitialModule.startSpeed.minScalar
@@ -1756,6 +1760,10 @@ Prefab:
       propertyPath: InitialModule.startSize.minScalar
       value: 2.5000
       objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 2.5000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
   m_IsPrefabParent: 0
@@ -2225,6 +2233,10 @@ Prefab:
     - target: {fileID: 19800000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
       propertyPath: randomSeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
       objectReference: {fileID: 0}
     - target: {fileID: 19800000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
       propertyPath: InitialModule.startSpeed.minScalar
