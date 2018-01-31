@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Dados/Escenas/MenuPrincipal.unity
+- path: Assets/Dados/Escenas/SalonDestino.unity
   isLoaded: 1
   isActive: 1
