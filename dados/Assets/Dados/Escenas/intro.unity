@@ -3950,7 +3950,7 @@ GameObject:
   - component: {fileID: 1168283838}
   - component: {fileID: 1168283841}
   m_Layer: 0
-  m_Name: New Text (1)
+  m_Name: T_Intro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4048,7 +4048,7 @@ GameObject:
   - component: {fileID: 1442551860}
   - component: {fileID: 1442551859}
   m_Layer: 0
-  m_Name: New Text
+  m_Name: T_titulo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
