@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 253325082}
   - component: {fileID: 253325081}
   m_Layer: 5
-  m_Name: Button
+  m_Name: B_Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -407,7 +407,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: -966065722
+  randomSeed: -1970106010
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -3963,8 +3963,8 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1168283837}
-  m_Text: "cuenta le leyenda\n que\n hace a\xF1os\nlos hombres recurrian a la muerte
-    para \nsaber su destino, el lugar donde\npodrian saber "
+  m_Text: "viviendo en el futuro con el\ncuerpo en el presente .\nEstas ancioso por
+    \nconocer el ma\xF1ana \nno esperes mas y pregunta\nque yo te respondere\n"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -3974,7 +3974,7 @@ TextMesh:
   m_FontSize: 50
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: b254a5f868e69274eaad5b03df588028, type: 3}
+  m_Font: {fileID: 12800000, guid: 3a671325c1d91b24bb3310f41b296087, type: 3}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -3992,7 +3992,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b254a5f868e69274eaad5b03df588028, type: 3}
+  - {fileID: 2100000, guid: 3a671325c1d91b24bb3310f41b296087, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4071,7 +4071,7 @@ TextMesh:
   m_FontSize: 50
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: b254a5f868e69274eaad5b03df588028, type: 3}
+  m_Font: {fileID: 12800000, guid: 3a671325c1d91b24bb3310f41b296087, type: 3}
   m_Color:
     serializedVersion: 2
     rgba: 4294967293
@@ -4089,7 +4089,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b254a5f868e69274eaad5b03df588028, type: 3}
+  - {fileID: 2100000, guid: 3a671325c1d91b24bb3310f41b296087, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
